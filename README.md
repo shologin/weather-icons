@@ -78,12 +78,30 @@
 | <img src="https://github.com/shologin/weather-icons/assets/136815194/0bcec230-5b4a-4577-928d-bd732d4cf377"> |      293       | `https://github.com/shologin/weather-icons/assets/136815194/0bcec230-5b4a-4577-928d-bd732d4cf377` |
 | <img src="https://github.com/shologin/weather-icons/assets/136815194/267d257c-bfe6-4ae5-a4bd-8ae6cdc87dd4"> |      296       | `https://github.com/shologin/weather-icons/assets/136815194/267d257c-bfe6-4ae5-a4bd-8ae6cdc87dd4` |
 | <img src="https://github.com/shologin/weather-icons/assets/136815194/7d359aaa-6e73-4574-9832-d03ccf76acf7"> |      299       | `https://github.com/shologin/weather-icons/assets/136815194/7d359aaa-6e73-4574-9832-d03ccf76acf7` |
-| <img src=""> |      000       | `` |
-| <img src=""> |      000       | `` |
-
-
-
-
-
-
-
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/a0556199-1289-45a8-8c9c-3847393a37d1"> |      302       | `https://github.com/shologin/weather-icons/assets/136815194/a0556199-1289-45a8-8c9c-3847393a37d1` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/a7657efd-1ad3-4f0d-a851-9b3269debfd6"> |      305       | `https://github.com/shologin/weather-icons/assets/136815194/a7657efd-1ad3-4f0d-a851-9b3269debfd6` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/350dfd26-9fea-40e6-b1b9-87561a1b3737"> |      308       | `https://github.com/shologin/weather-icons/assets/136815194/350dfd26-9fea-40e6-b1b9-87561a1b3737` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/efbdadaf-bade-4aa8-aca2-4aeabc0a42bf"> |      311       | `https://github.com/shologin/weather-icons/assets/136815194/efbdadaf-bade-4aa8-aca2-4aeabc0a42bf` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/353e5624-ba37-44ff-912a-5e2bfb919905"> |      314       | `https://github.com/shologin/weather-icons/assets/136815194/353e5624-ba37-44ff-912a-5e2bfb919905` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/5019f982-bf23-4b7e-9ab1-edd85fdb526a"> |      317       | `https://github.com/shologin/weather-icons/assets/136815194/5019f982-bf23-4b7e-9ab1-edd85fdb526a` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/600b4620-5572-48f8-b3c3-2eb08afc6abc"> |      320       | `https://github.com/shologin/weather-icons/assets/136815194/600b4620-5572-48f8-b3c3-2eb08afc6abc` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/7987a936-4700-4a3a-abfc-3941d0ac4494"> |      323       | `https://github.com/shologin/weather-icons/assets/136815194/7987a936-4700-4a3a-abfc-3941d0ac4494` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/b956ecef-6406-409f-ab64-8b8b7a387913"> |      326       | `https://github.com/shologin/weather-icons/assets/136815194/b956ecef-6406-409f-ab64-8b8b7a387913` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/8416e0cc-e45c-424a-851b-b00717b3fd52"> |      329       | `https://github.com/shologin/weather-icons/assets/136815194/8416e0cc-e45c-424a-851b-b00717b3fd52` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/769fa791-3b38-4019-9229-e0d6502671ad"> |      332       | `https://github.com/shologin/weather-icons/assets/136815194/769fa791-3b38-4019-9229-e0d6502671ad` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/c9f952af-661a-45b0-92a2-66dfbcb7f103"> |      335       | `https://github.com/shologin/weather-icons/assets/136815194/c9f952af-661a-45b0-92a2-66dfbcb7f103` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/930c3974-cf0f-4c38-a2d7-3f814f1b8cd0"> |      338       | `https://github.com/shologin/weather-icons/assets/136815194/930c3974-cf0f-4c38-a2d7-3f814f1b8cd0` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/1d620f9a-1d1e-4aa4-a709-353184d55633"> |      350       | `https://github.com/shologin/weather-icons/assets/136815194/1d620f9a-1d1e-4aa4-a709-353184d55633` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/1bdcb0eb-93a0-4543-9a83-9417d9c1cb34"> |      353       | `https://github.com/shologin/weather-icons/assets/136815194/1bdcb0eb-93a0-4543-9a83-9417d9c1cb34` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/7ab235bc-c485-44d2-8875-29bc9658f77d"> |      356       | `https://github.com/shologin/weather-icons/assets/136815194/7ab235bc-c485-44d2-8875-29bc9658f77d` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/9399ba53-dfd2-443d-9f3c-47a10588ca60"> |      359       | `https://github.com/shologin/weather-icons/assets/136815194/9399ba53-dfd2-443d-9f3c-47a10588ca60` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/6ef615b0-683f-4c36-b949-671d1a22b79b"> |      362       | `https://github.com/shologin/weather-icons/assets/136815194/6ef615b0-683f-4c36-b949-671d1a22b79b` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/95853775-4599-4671-a6e3-47e4a01f87fa"> |      365       | `https://github.com/shologin/weather-icons/assets/136815194/95853775-4599-4671-a6e3-47e4a01f87fa` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/4c89878e-d2ad-4e52-a2a4-eaaab6a71e25"> |      368       | `https://github.com/shologin/weather-icons/assets/136815194/4c89878e-d2ad-4e52-a2a4-eaaab6a71e25` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/ac1814f4-104f-410d-978c-40f11754d2be"> |      371       | `https://github.com/shologin/weather-icons/assets/136815194/ac1814f4-104f-410d-978c-40f11754d2be` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/e58d760a-0273-4d34-b8fd-73a85bcfcf65"> |      374       | `https://github.com/shologin/weather-icons/assets/136815194/e58d760a-0273-4d34-b8fd-73a85bcfcf65` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/3c753332-1dfc-40ad-8e3a-7c753c8b66f9"> |      377       | `https://github.com/shologin/weather-icons/assets/136815194/3c753332-1dfc-40ad-8e3a-7c753c8b66f9` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/f63544e7-64c0-411b-bd52-a2ca6bb3b0d5"> |      386       | `https://github.com/shologin/weather-icons/assets/136815194/f63544e7-64c0-411b-bd52-a2ca6bb3b0d5` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/4867383e-bcab-4a4b-a1d3-49f40ed6526f"> |      389       | `https://github.com/shologin/weather-icons/assets/136815194/4867383e-bcab-4a4b-a1d3-49f40ed6526f` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/4d131018-4bfd-4133-97ee-acf3f8bea851"> |      392       | `https://github.com/shologin/weather-icons/assets/136815194/4d131018-4bfd-4133-97ee-acf3f8bea851` |
+| <img src="https://github.com/shologin/weather-icons/assets/136815194/136ec5c2-601a-4f28-bb99-70bc9541ef49"> |      395       | `https://github.com/shologin/weather-icons/assets/136815194/136ec5c2-601a-4f28-bb99-70bc9541ef49` |
