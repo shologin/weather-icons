@@ -14,7 +14,7 @@ There are few ways of using icons from this repository.
 ## Credentials
 This set of icons was developed by: 
 
-<b>Oliver Pitsch, https://pitsch.me/</b>
+<b>Oliver Pitsch https://pitsch.me/</b>
 
 This repository provides convenient way of usage of the icons.
 
