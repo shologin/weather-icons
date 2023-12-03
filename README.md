@@ -1,5 +1,17 @@
 # Weather Icons
 
+## About
+Ultimate set of icons with codes for weatherapi.com.
+
+## Credentials
+This set of icons was developed by: 
+
+<b>Oliver Pitsch, https://pitsch.me/</b>
+
+This repository provides convenient way of usage of the icons.
+
+All rights reserved by Oliver Pitsch.
+
 ### ☀️ Day
 
 |                                                        Icon Preview                                                        | Icon number | URL                                                                                                     |
@@ -52,6 +64,10 @@
 | <img src="https://github.com/shologin/weather-icons/assets/136815194/317721ab-7c36-42f1-bd3f-ac3146b1d6f3"> |      389       | `https://github.com/shologin/weather-icons/assets/136815194/317721ab-7c36-42f1-bd3f-ac3146b1d6f3` |
 | <img src="https://github.com/shologin/weather-icons/assets/136815194/6a9590f4-c3b0-43cb-a0d7-ec4860e20c82"> |      392       | `https://github.com/shologin/weather-icons/assets/136815194/6a9590f4-c3b0-43cb-a0d7-ec4860e20c82` |
 | <img src="https://github.com/shologin/weather-icons/assets/136815194/4519e149-c361-40ef-9d1e-b6f049cf3250"> |      395       | `https://github.com/shologin/weather-icons/assets/136815194/4519e149-c361-40ef-9d1e-b6f049cf3250` |
+
+
+###
+
 
 ### 🌑 Night
 
