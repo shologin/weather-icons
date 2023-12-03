@@ -3,6 +3,14 @@
 ## About
 Ultimate set of icons with codes for weatherapi.com.
 
+## Usage
+There are few ways of using icons from this repository.
+- Copy icon URL and paste it to your project.
+  
+- If you are getting weather data from [WeatherApi](https://www.weatherapi.com/) you can use function provided in <b>imagesProvider/imagesProvider.ts</b>. Just call this function and pass the original URL of image provided by WeatherAPI. It returns you the link to the icon in this repository.
+  
+  For example: <b>imagesProvider("//cdn.weatherapi.com/weather/64x64/day/113.png")</b> will return you <b>string</b> "https://github.com/shologin/weather-icons/assets/136815194/fad8061b-c93b-4eca-8219-5326407d8b59"
+
 ## Credentials
 This set of icons was developed by: 
 
